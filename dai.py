@@ -2,7 +2,6 @@ from iottalkpy import dan
 from config import IoTtalk_URL, device_model, device_name, Comm_interval, idf_list
 import sys
 import time
-import requests
 import os
 import datetime
 import json
